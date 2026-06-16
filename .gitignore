@@ -14,3 +14,5 @@ env/
 # Backend specific
 backend/database/*.db
 backend/database/*.sqlite
+Design/
+Rapport_Technique_EcoImpact_AI_v2.pdf
